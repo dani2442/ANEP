@@ -3,3 +3,4 @@ matplotlib
 jupyterlab
 seaborn
 ipykernel
+scipy
